@@ -1,0 +1,10 @@
+{
+  "name": "weather-monitoring-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
